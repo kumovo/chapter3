@@ -1,7 +1,6 @@
 body {
-  background-color: aliceblue;
-  padding: 10px 20px;
+  font-family: Verdana, Geneva, Arial, sans-serif
 }
-li {
-  list-style-type:upper-a;
+h2 {
+  font-family: cursive
 }
